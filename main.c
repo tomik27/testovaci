@@ -1,5 +1,5 @@
 #include <studio.h>
 
 int main(){
-return 15+2;
+return 105+2;
 }
