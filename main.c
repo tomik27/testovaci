@@ -1,5 +1,5 @@
 #include <studio.h>
 
 int main(){
-return 0;
+return 15;
 }
